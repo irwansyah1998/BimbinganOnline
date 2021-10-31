@@ -19,7 +19,7 @@
 > with email : bdg3698@gmail.com
 > thanks to you!
 > 
->oh anyway don forget to visit my patreon >_<
+>oh, anyway don forget to visit my patreon >_<
 >In [this].
 >Thanks again!
 
