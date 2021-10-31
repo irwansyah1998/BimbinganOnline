@@ -1,5 +1,5 @@
 # MosqueApp
-## _Version 0001_
+## _Version 0.001 (Building)_
 
 ###### This app make with Codeigniter 3 (3.1.11),
 ###### Web programming with PHP language.
