@@ -2,12 +2,11 @@
 ## _Version 0.002 (Building)_
 
 ###### This app make with Codeigniter 3 (3.1.11),
-###### Web programming with PHP language.
-- ###### ✨Start now✨
+###### Web programming with PHP language with 7.4 or higher version.
+- ###### ✨Developing✨
 
 ## Features in this version
 - ###### [AdminLTE3] UI
-- ###### PHP 7.4 or higher
 
 
 ## The creator of this app is :
