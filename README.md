@@ -1,4 +1,5 @@
 # MosqueApp
+###### This application is intended for Muslims who are or have been and are trying to manage the mosque system and make it easier and more efficient
 ## _Version 0.002 (Building)_
 
 ###### This app make with Codeigniter 3 (3.1.11),
